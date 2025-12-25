@@ -1,0 +1,9 @@
+com\nuist\test\Service\PlayerService.class
+com\nuist\test\Controller\PlayerController.class
+com\nuist\test\TestApplication.class
+com\nuist\test\Entity\WorldTable.class
+com\nuist\test\Service\WorldService.class
+com\nuist\test\DAO\WorldDAO.class
+com\nuist\test\DAO\PlayerDAO.class
+com\nuist\test\DAO\PlayerRepository.class
+com\nuist\test\Entity\PlayerTable.class
